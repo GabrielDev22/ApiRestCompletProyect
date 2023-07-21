@@ -1,0 +1,42 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.input{
+    width: 20rem;
+    padding: 10px;
+}
+
+.textarea{
+    width: 30rem;
+    height: 10rem;
+}
+
+.envioSolicitud{
+    width: 120px;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+}
+
+
+.contenedorListado{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.listadoContenido{
+    display: flex;
+    flex-direction: column;
+}
+
+.lista{
+    height: 60px;
+    font-size: 28px;
+    border-bottom: 1px solid black;
+}

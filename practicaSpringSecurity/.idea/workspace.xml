@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="855a31ba-f429-4d47-8f7f-eaea0f3a6319" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/practicaSpringSecurity/src/main/java/com/example/practicaSpringSecurity/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/practicaSpringSecurity/src/main/java/com/example/practicaSpringSecurity/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicaSpringSecurity/src/main/java/com/example/practicaSpringSecurity/controller/PracticaRuteoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practicaSpringSecurity/src/main/java/com/example/practicaSpringSecurity/controller/PracticaRuteoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicaSpringSecurity/src/main/java/com/example/practicaSpringSecurity/service/implementation/UsuarioServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/practicaSpringSecurity/src/main/java/com/example/practicaSpringSecurity/service/implementation/UsuarioServiceImplementation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/practicaSpringSecurity" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2SrQlc7lYNPDZXHRnBLZWJJZEkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Gabriel/IdeaProjects/ApiRestSecurityComplet/practicaSpringSecurity/practicaSpringSecurity"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855a31ba-f429-4d47-8f7f-eaea0f3a6319" name="Changes" comment="" />
+      <created>1689902373935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689902373935</updated>
+    </task>
+    <servers />
+  </component>
+</project>
